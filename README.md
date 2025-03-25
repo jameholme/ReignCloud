@@ -1,5 +1,5 @@
 # ReignCloud
-ReignCloud is a simple script that helps automate a lot of the reconnaissance/enumeration efforts of Penetration Testing for Cloud targets
+ReignCloud is a simple utility that helps automate the best part of Penetration Testing (reconnaissance/enumeration) for Cloud targets
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀
