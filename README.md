@@ -29,4 +29,4 @@ ReignCloud is a simple utility that helps automate the best part of Penetration 
   
 #### Usage:
 1. run `dependency_check.sh` to check if the required dependencies are installed
-2. run `reigncloud.sh`
+2. run `reigncloud.sh` (besure to provide your target list and a wordlist else it'll ask you to do so!)
