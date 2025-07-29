@@ -33,7 +33,7 @@ NMAP_SCAN_OUTPUT="${OUTPUT_DIR}/${DATE}-scan"
 subfinder -dL "$TARGET_DOMAINS" -o "$TARGET_HOSTS" -stats
 
 # DNS Enumeration using dnsx
-dnsx -d "$TARGET_DOMAINS" -w "$WORDLIST" -a -aaaa -cname -txt -mx -json -o "$DNSX_RESULTS" -r 10.10.60.35 -re -stats
+dnsx -d "$TARGET_DOMAINS" -w "$WORDLIST" -a -aaaa -cname -txt -mx -json -o "$DNSX_RESULTS" -r 8.8.8.8 -re -stats
 
 # Filter and extract target hosts
 cat "$TARGET_HOSTS" | anew "$TARGET_HOSTS"
